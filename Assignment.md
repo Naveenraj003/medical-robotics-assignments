@@ -21,4 +21,5 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [LinkedIn post URL](
+https://www.linkedin.com/posts/naveenraj2006_aiml-day1-browserbotics-ugcPost-7436076377746960384-cidQ?utm_source=share&utm_medium=member_android&rcm=ACoAAEbvX_MB8mpU006t5V8D9MONjSnP1K-vRxw)
